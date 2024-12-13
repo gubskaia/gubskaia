@@ -2,12 +2,6 @@
 
 Welcome to my GitHub! I'm a **Java Developer** with a focus on building efficient and scalable backend systems using **Java** and **Spring Framework**. I also enjoy working with modern frontend technologies to deliver user-friendly and responsive applications.  
 
-### About Me  
-💻 I specialize in backend development with **Java** and **Spring Framework**, building reliable and maintainable systems.  
-📊 Experienced in **PostgreSQL** database management.  
-🌐 Skilled in frontend technologies like **HTML**, **CSS**, **JavaScript**, **TypeScript**, and frameworks such as **React** and **Vue.js**.  
-🎯 Passionate about clean code, efficient architecture, and continuous learning.  
-
 Let’s connect and build something amazing! 
 
 ### Tech Stack  
